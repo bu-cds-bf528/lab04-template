@@ -1,0 +1,3 @@
+sample,r1,r2
+ctl_rep1,samples/ctl_rep1_R1.fastq.gz,samples/ctl_rep1_R2.fastq.gz
+trt_rep1,samples/trt_rep1_R1.fastq.gz,samples/trt_rep1_R2.fastq.gz

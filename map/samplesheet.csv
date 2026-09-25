@@ -1,0 +1,5 @@
+sample,fq
+ctl_1,samples/ctl_1.fastq.gz
+ctl_2,samples/ctl_2.fastq.gz
+trt_1,samples/trt_1.fastq.gz
+trt_2,samples/trt_2.fastq.gz
